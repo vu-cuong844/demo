@@ -1,1 +1,8 @@
 test demo
+M (Modified): Tệp đã thay đổi nhưng chưa được thêm vào vùng staging.
+A (Added): Tệp đã được thêm vào vùng staging, chờ commit.
+D (Deleted): Tệp đã bị xóa và thay đổi đã được thêm vào vùng staging.
+U (Untracked): Tệp mới chưa được Git theo dõi.
+R (Renamed): Tệp đã được đổi tên.
++ (Staged): Tệp đã được thêm vào vùng staging.
+- (Staged removal): Tệp đã bị xóa khỏi vùng staging.
